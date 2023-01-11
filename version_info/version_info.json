@@ -1,0 +1,10 @@
+{
+    "name": "JuniorHighGame",
+    "version": "2.1.0",
+    "description": [
+        "Added Upgrade Alert"
+    ],
+    "macosFileName": ,
+    "windowsFileName": ,
+    "linuxFileName": "https://github.com/JuniorHighGame/jhg_release/releases/download/v0.1.0-beta.2/JHG-v0.1.0-beta.2-linux.zip"
+}
